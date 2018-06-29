@@ -4,7 +4,7 @@
 
 로딩화면 예시입니다
 
- ![APS loading example](/loading/APS loading example.jpg)
+<img src="/loading/APS loading example.jpg" width="427">
 
 [APS loading]
 
@@ -24,12 +24,12 @@
 
 사용자가 드래그 했을 때 인터랙션, 되는 홈화면 예시입니다
 
+<img src="/home/homeafter_example.jpg" width="427">
 
 pm 9:53 update
 
 [homebg.png]
 백그라운드에 넣어주세요
-
 
 
 ## --------translation 폴더--------
