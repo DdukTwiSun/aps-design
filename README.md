@@ -21,3 +21,9 @@
 [homeafter_example]
 
 사용자가 드래그 했을 때 인터랙션, 되는 홈화면 예시입니다
+
+
+pm 9:53 update
+
+[homebg.png]
+백그라운드에 넣어주세요
